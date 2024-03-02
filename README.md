@@ -2,7 +2,7 @@
 Project for the Database Design course - 5th semester, completed in a group of 3 people.
 
 This project encompasses the creation of both a relational and a non-relational database 
-for the Polish internal network system of Prisons. The facilities accommodate both male and female inmates. 
+for the Polish internal network system of prisons. The facilities accommodate both male and female inmates. 
 The primary objective of the databases is to streamline the management of data 
 for individuals currently residing and working within these institutions.
 
